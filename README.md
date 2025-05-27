@@ -10,8 +10,9 @@ Este projeto abre a câmera do seu computador e, utilizando inteligência artifi
 
 ## 🧠 Tecnologias
 
-- Python
-- OpenCV
-- Transformers (BLIP)
-- Torch
+- opencv-python
+- pillow
+- torch
+- transformers
+- deep_translator
 
